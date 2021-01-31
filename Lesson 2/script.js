@@ -73,7 +73,7 @@ console.log(subtraction(a, b))
 console.log(multiplication(a, b))
 console.log(division(a, b))
 
-// Homework Lesson_2_task_5
+// Homework Lesson_2_task_6
 console.log("Homework Lesson_2_task_6");
 var a = 2
 var b = 3
